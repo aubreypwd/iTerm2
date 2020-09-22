@@ -69,7 +69,7 @@
   },
   "Disable Smcup Rmcup" : false,
   "Use Bright Bold" : true,
-  "Columns" : 150,
+  "Columns" : 190,
   "Background Color" : {
     "Red Component" : 0.07537841796875,
     "Color Space" : "sRGB",
@@ -276,7 +276,7 @@
   },
   "Silence Bell" : true,
   "Automatically Log" : false,
-  "Rows" : 50,
+  "Rows" : 69,
   "Draw Powerline Glyphs" : true,
   "Guid" : "43F53EFD-C832-4FBD-914B-F019D6AE4B97",
   "Ambiguous Double Width" : false,

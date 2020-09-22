@@ -87067,7 +87067,7 @@
 	<key>MaxVertically</key>
 	<true/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Repos/aubreypwd-terminal/iTerm/Profile Configs</string>
+	<string>~/Dropbox/iTerm2/Extra/Active Color Scheme</string>
 	<key>NSNavLastUserSetHideExtensionButtonState</key>
 	<false/>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
@@ -87158,7 +87158,7 @@
 	<key>NSWindow Frame SharedPreferences</key>
 	<string>20 524 928 394 0 0 1680 1050 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>409 209 990 588 0 0 3008 1669 </string>
+	<string>1642 57 1347 1120 0 0 3008 1669 </string>
 	<key>NeverWarnAboutPossibleOverrides</key>
 	<true/>
 	<key>NeverWarnAboutPossibleOverrides_selection</key>
@@ -87468,7 +87468,7 @@
 			<key>Close Sessions On End</key>
 			<true/>
 			<key>Columns</key>
-			<integer>160</integer>
+			<integer>150</integer>
 			<key>Command</key>
 			<string></string>
 			<key>Cursor Boost</key>
@@ -89094,7 +89094,7 @@
 		<key>screenFrame</key>
 		<string>{{0, 0}, {3008, 1692}}</string>
 		<key>topLeft</key>
-		<string>{225, 624}</string>
+		<string>{1096, 775}</string>
 	</dict>
 	<key>NoSyncHaveUsedCopyMode</key>
 	<true/>
@@ -89105,7 +89105,7 @@
 	<key>NoSyncLastTipTime</key>
 	<real>584467092.50793695</real>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>208</integer>
+	<integer>209</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -89833,7 +89833,7 @@
 	<key>NoSyncSavePanelSavedSettings_SaveProfile</key>
 	<dict>
 		<key>Initial Directory</key>
-		<string>/Users/aubreypwd/Repos/aubreypwd-terminal/iTerm/Profile Configs</string>
+		<string>/Users/aubreypwd/Dropbox/iTerm2/Extra/Profiles</string>
 	</dict>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>581727753.56006098</real>
@@ -89941,7 +89941,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2020-09-20T15:10:38Z</date>
+	<date>2020-09-21T15:10:40Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>SUUpdateGroupIdentifier</key>
