@@ -276,7 +276,7 @@
   },
   "Silence Bell" : true,
   "Automatically Log" : false,
-  "Rows" : 69,
+  "Rows" : 55,
   "Draw Powerline Glyphs" : true,
   "Guid" : "43F53EFD-C832-4FBD-914B-F019D6AE4B97",
   "Ambiguous Double Width" : false,
@@ -304,7 +304,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0
   },
-  "Custom Window Title" : "zsh",
+  "Custom Window Title" : "Aubrey's Macbook Pro 3",
   "HotKey Window Reopens On Activation" : false,
   "ASCII Ligatures" : false,
   "Blend" : 0.050000000000000003,
