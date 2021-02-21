@@ -87185,13 +87185,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>1</real>
+				<real>0.792156862745098</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.96470588445663452</real>
+				<real>0.74901960784313726</real>
 				<key>Red Component</key>
-				<real>0.96470588445663452</real>
+				<real>0.7686274509803922</real>
 			</dict>
 			<key>Ansi 2 Color</key>
 			<dict>
@@ -87306,13 +87306,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.0533447265625</real>
+				<real>0.10196078431372549</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.0533447265625</real>
+				<real>0.10196078431372549</real>
 				<key>Red Component</key>
-				<real>0.0533447265625</real>
+				<real>0.10196078431372549</real>
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
@@ -87340,7 +87340,7 @@
 			<key>Blur</key>
 			<false/>
 			<key>Blur Radius</key>
-			<real>30</real>
+			<real>7.552255154639175</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Alpha Component</key>
@@ -87430,13 +87430,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.885986328125</real>
+				<real>0.79493522644042969</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.83734393119812012</real>
+				<real>0.7512917145845458</real>
 				<key>Red Component</key>
-				<real>0.85819065570831299</real>
+				<real>0.76999606152872724</real>
 			</dict>
 			<key>Guid</key>
 			<string>43F53EFD-C832-4FBD-914B-F019D6AE4B97</string>
