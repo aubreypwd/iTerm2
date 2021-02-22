@@ -88048,7 +88048,7 @@
 			<key>Blur</key>
 			<true/>
 			<key>Blur Radius</key>
-			<real>18.068557865103497</real>
+			<real>24.624221612989288</real>
 			<key>Bold Color</key>
 			<dict>
 				<key>Alpha Component</key>
@@ -88064,6 +88064,8 @@
 			</dict>
 			<key>Bound Hosts</key>
 			<array/>
+			<key>Brighten Bold Text</key>
+			<true/>
 			<key>Character Encoding</key>
 			<integer>4</integer>
 			<key>Close Sessions On End</key>
@@ -88138,13 +88140,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.9859004020690918</real>
+				<real>0.98590040209999996</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.93177249772158532</real>
+				<real>0.93177247050000001</real>
 				<key>Red Component</key>
-				<real>0.95497014989242801</real>
+				<real>0.95497012140000004</real>
 			</dict>
 			<key>Guid</key>
 			<string>43F53EFD-C832-4FBD-914B-F019D6AE4B97</string>
@@ -88682,7 +88684,7 @@
 			<key>Thin Strokes</key>
 			<integer>0</integer>
 			<key>Transparency</key>
-			<real>0.0</real>
+			<real>0.056194360477408181</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unicode Normalization</key>
@@ -88845,7 +88847,7 @@
 	<key>TabStyle</key>
 	<integer>1</integer>
 	<key>TabStyleWithAutomaticOption</key>
-	<integer>5</integer>
+	<integer>6</integer>
 	<key>TabViewType</key>
 	<integer>0</integer>
 	<key>ThreeFingerEmulates</key>
