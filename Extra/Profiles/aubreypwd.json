@@ -61,21 +61,21 @@
     }
   ],
   "Bold Color" : {
-    "Red Component" : 0.93421053886413574,
+    "Red Component" : 0.95497012140000004,
     "Color Space" : "sRGB",
-    "Blue Component" : 1,
+    "Blue Component" : 0.98590040209999996,
     "Alpha Component" : 1,
-    "Green Component" : 0.97807019948959351
+    "Green Component" : 0.93177247050000001
   },
   "Disable Smcup Rmcup" : false,
   "Use Bright Bold" : true,
-  "Columns" : 190,
+  "Columns" : 185,
   "Background Color" : {
-    "Red Component" : 0.07537841796875,
+    "Red Component" : 0.096324443817138672,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.07537841796875,
+    "Blue Component" : 0.096324443817138672,
     "Alpha Component" : 1,
-    "Green Component" : 0.07537841796875
+    "Green Component" : 0.096324443817138672
   },
   "Ansi 8 Color" : {
     "Red Component" : 0.44080483913421631,
@@ -92,7 +92,7 @@
   "Use Underline Color" : false,
   "Use Tab Color" : false,
   "HotKey Modifier Flags" : 0,
-  "Cursor Type" : 1,
+  "Cursor Type" : 0,
   "Keyboard Map" : {
     "0xf700-0x260000" : {
       "Text" : "[1;6A",
@@ -256,14 +256,14 @@
   "Open Toolbelt" : false,
   "AWDS Window Option" : "No",
   "Visual Bell" : true,
-  "Only The Default BG Color Uses Transparency" : false,
+  "Only The Default BG Color Uses Transparency" : true,
   "Log Directory" : "",
   "Cursor Text Color" : {
-    "Red Component" : 0.94901961088180542,
+    "Red Component" : 0.95497012140000004,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.97647058963775635,
+    "Blue Component" : 0.98590040209999996,
     "Alpha Component" : 1,
-    "Green Component" : 0.92549020051956177
+    "Green Component" : 0.93177247050000001
   },
   "AWDS Tab Directory" : "",
   "Scrollback Lines" : 0,
@@ -276,7 +276,7 @@
   },
   "Silence Bell" : true,
   "Automatically Log" : false,
-  "Rows" : 55,
+  "Rows" : 57,
   "Draw Powerline Glyphs" : true,
   "Guid" : "43F53EFD-C832-4FBD-914B-F019D6AE4B97",
   "Ambiguous Double Width" : false,
@@ -304,7 +304,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0
   },
-  "Custom Window Title" : "Aubrey's Macbook Pro 3",
+  "Custom Window Title" : "zsh",
   "HotKey Window Reopens On Activation" : false,
   "ASCII Ligatures" : false,
   "Blend" : 0.050000000000000003,
@@ -382,23 +382,23 @@
     "Green Component" : 0.81960785388946533
   },
   "Foreground Color" : {
-    "Red Component" : 0.85819065570831299,
+    "Red Component" : 0.95497012140000004,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.885986328125,
+    "Blue Component" : 0.98590040209999996,
     "Alpha Component" : 1,
-    "Green Component" : 0.83734393119812012
+    "Green Component" : 0.93177247050000001
   },
   "Blink Allowed" : true,
   "Sync Title" : true,
   "Ansi 1 Color" : {
-    "Red Component" : 0.86274509803921573,
+    "Red Component" : 0.86274510622024536,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.49019607843137253,
+    "Blue Component" : 0.49019607901573181,
     "Alpha Component" : 1,
-    "Green Component" : 0.3411764705882353
+    "Green Component" : 0.34117648005485535
   },
   "Name" : "aubreypwd",
-  "Transparency" : 0,
+  "Transparency" : 0.056194360477408181,
   "Horizontal Spacing" : 0.88,
   "Thin Strokes" : 0,
   "Background Image Is Tiled" : false,
@@ -419,6 +419,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.81176471710205078
   },
+  "Brighten Bold Text" : true,
   "Prevent Opening in a Tab" : false,
   "Screen" : -2,
   "Selection Color" : {
@@ -460,7 +461,7 @@
   "Use HFS Plus Mapping" : true,
   "Working Directory" : "\/Users\/aubreypwd",
   "ASCII Anti Aliased" : true,
-  "Custom Directory" : "Advanced",
+  "Custom Directory" : "Recycle",
   "HotKey Window AutoHides" : true,
   "Shortcut" : "",
   "Mouse Reporting" : true,
@@ -468,7 +469,7 @@
   "Tags" : [
 
   ],
-  "Blur Radius" : 30,
+  "Blur Radius" : 24.624221612989288,
   "Set Local Environment Vars" : true,
   "Use Bold Font" : false,
   "Ansi 2 Color" : {
@@ -484,15 +485,15 @@
   "AWDS Window Directory" : "",
   "Unlimited Scrollback" : true,
   "Ansi 15 Color" : {
-    "Red Component" : 0.96470588445663452,
+    "Red Component" : 0.95497012140000004,
     "Color Space" : "sRGB",
-    "Blue Component" : 1,
+    "Blue Component" : 0.98590040209999996,
     "Alpha Component" : 1,
-    "Green Component" : 0.96470588445663452
+    "Green Component" : 0.93177247050000001
   },
   "HotKey Characters Ignoring Modifiers" : "",
   "Blur" : true,
-  "Initial Use Transparency" : false,
+  "Initial Use Transparency" : true,
   "HotKey Characters" : "",
   "Scrollback in Alternate Screen" : false,
   "Terminal Type" : "xterm-256color",
