@@ -88046,7 +88046,7 @@
 			<key>Blinking Cursor</key>
 			<true/>
 			<key>Blur</key>
-			<false/>
+			<true/>
 			<key>Blur Radius</key>
 			<real>24.624221612989288</real>
 			<key>Bold Color</key>
