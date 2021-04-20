@@ -329,7 +329,7 @@
     "Alpha Component" : 1,
     "Green Component" : 0.81960785388946533
   },
-  "Vertical Spacing" : 0.85999999999999999,
+  "Vertical Spacing" : 0.87,
   "Bound Hosts" : [
 
   ],
@@ -398,7 +398,7 @@
     "Green Component" : 0.34117648005485535
   },
   "Name" : "aubreypwd",
-  "Transparency" : 0,
+  "Transparency" : 0.073562386109656888,
   "Horizontal Spacing" : 0.88,
   "Thin Strokes" : 0,
   "Background Image Is Tiled" : false,
@@ -469,7 +469,7 @@
   "Tags" : [
 
   ],
-  "Blur Radius" : 10.708991501011798,
+  "Blur Radius" : 46.801379300146991,
   "Set Local Environment Vars" : true,
   "Use Bold Font" : false,
   "Ansi 2 Color" : {
