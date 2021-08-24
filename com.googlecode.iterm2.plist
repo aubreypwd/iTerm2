@@ -88728,13 +88728,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.091257572174072266</real>
+				<real>0.06864476203918457</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.091257572174072266</real>
+				<real>0.06864476203918457</real>
 				<key>Red Component</key>
-				<real>0.091257572174072266</real>
+				<real>0.06864476203918457</real>
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
@@ -89398,7 +89398,7 @@
 			<key>Thin Strokes</key>
 			<integer>0</integer>
 			<key>Transparency</key>
-			<real>0.056724139341374033</real>
+			<real>0.0</real>
 			<key>Triggers</key>
 			<array/>
 			<key>Unicode Normalization</key>
