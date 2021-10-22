@@ -89418,13 +89418,13 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.082597255706787109</real>
+				<real>0.071419239044189453</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.082597255706787109</real>
+				<real>0.071419239044189453</real>
 				<key>Red Component</key>
-				<real>0.082597255706787109</real>
+				<real>0.071419239044189453</real>
 			</dict>
 			<key>Background Image Is Tiled</key>
 			<false/>
@@ -90264,7 +90264,7 @@
 	<key>TabStyle</key>
 	<integer>1</integer>
 	<key>TabStyleWithAutomaticOption</key>
-	<integer>6</integer>
+	<integer>5</integer>
 	<key>TabViewType</key>
 	<integer>0</integer>
 	<key>TabsHaveCloseButton</key>
