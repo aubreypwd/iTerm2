@@ -90297,7 +90297,7 @@
 	<string>.AppleSystemUIFont</string>
 	<key>Window Arrangements</key>
 	<dict>
-		<key>monster-hiring</key>
+		<key>monster-empmerch</key>
 		<array>
 			<dict>
 				<key>Desired Columns</key>
@@ -90383,78 +90383,78 @@
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.49019607901573181</real>
+												<real>0.55294117647058827</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.34117648005485535</real>
+												<real>0.38039215686274508</real>
 												<key>Red Component</key>
-												<real>0.86274510622024536</real>
+												<real>0.9882352941176471</real>
 											</dict>
 											<key>Ansi 10 Color</key>
 											<dict>
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.54509806632995605</real>
+												<real>0.5607843137254902</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.81960785388946533</real>
+												<real>0.84705882352941175</real>
 												<key>Red Component</key>
-												<real>0.47058823704719543</real>
+												<real>0.4823529411764706</real>
 											</dict>
 											<key>Ansi 11 Color</key>
 											<dict>
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.39215686917304993</real>
+												<real>0.40000000000000002</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.87843137979507446</real>
+												<real>0.89803921568627454</real>
 												<key>Red Component</key>
-												<real>0.96470588445663452</real>
+												<real>0.9882352941176471</real>
 											</dict>
 											<key>Ansi 12 Color</key>
 											<dict>
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.88235294818878174</real>
+												<real>0.90196078431372551</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.81176471710205078</real>
+												<real>0.83137254901960789</real>
 												<key>Red Component</key>
-												<real>0.3490196168422699</real>
+												<real>0.35294117647058826</real>
 											</dict>
 											<key>Ansi 13 Color</key>
 											<dict>
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.90196079015731812</real>
+												<real>0.8901960784313725</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.54117649793624878</real>
+												<real>0.54117647058823526</real>
 												<key>Red Component</key>
-												<real>0.58039218187332153</real>
+												<real>0.58039215686274515</real>
 											</dict>
 											<key>Ansi 14 Color</key>
 											<dict>
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.32549020648002625</real>
+												<real>0.32549019607843138</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.57647061347961426</real>
+												<real>0.57647058823529407</real>
 												<key>Red Component</key>
-												<real>0.99215686321258545</real>
+												<real>0.99215686274509807</real>
 											</dict>
 											<key>Ansi 15 Color</key>
 											<dict>
@@ -90474,65 +90474,65 @@
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.54509806632995605</real>
+												<real>0.5607843137254902</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.81960785388946533</real>
+												<real>0.84705882352941175</real>
 												<key>Red Component</key>
-												<real>0.47058823704719543</real>
+												<real>0.4823529411764706</real>
 											</dict>
 											<key>Ansi 3 Color</key>
 											<dict>
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.39215686917304993</real>
+												<real>0.40000000000000002</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.87843137979507446</real>
+												<real>0.89803921568627454</real>
 												<key>Red Component</key>
-												<real>0.96470588445663452</real>
+												<real>0.9882352941176471</real>
 											</dict>
 											<key>Ansi 4 Color</key>
 											<dict>
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.88235294818878174</real>
+												<real>0.90196078431372551</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.81176471710205078</real>
+												<real>0.83137254901960789</real>
 												<key>Red Component</key>
-												<real>0.3490196168422699</real>
+												<real>0.35294117647058826</real>
 											</dict>
 											<key>Ansi 5 Color</key>
 											<dict>
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.90196079015731812</real>
+												<real>0.8901960784313725</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.54117649793624878</real>
+												<real>0.54117647058823526</real>
 												<key>Red Component</key>
-												<real>0.58039218187332153</real>
+												<real>0.58039215686274515</real>
 											</dict>
 											<key>Ansi 6 Color</key>
 											<dict>
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.32549020648002625</real>
+												<real>0.32549019607843138</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.57647061347961426</real>
+												<real>0.57647058823529407</real>
 												<key>Red Component</key>
-												<real>0.99215686321258545</real>
+												<real>0.99215686274509807</real>
 											</dict>
 											<key>Ansi 7 Color</key>
 											<dict>
@@ -90565,13 +90565,13 @@
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.49019607901573181</real>
+												<real>0.55294117647058827</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.34117648005485535</real>
+												<real>0.38039215686274508</real>
 												<key>Red Component</key>
-												<real>0.86274510622024536</real>
+												<real>0.9882352941176471</real>
 											</dict>
 											<key>Automatically Log</key>
 											<false/>
@@ -90582,13 +90582,13 @@
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.10958623886108398</real>
+												<real>0.071419239044189453</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.10958623886108398</real>
+												<real>0.071419239044189453</real>
 												<key>Red Component</key>
-												<real>0.10958623886108398</real>
+												<real>0.071419239044189453</real>
 											</dict>
 											<key>Background Image Is Tiled</key>
 											<false/>
@@ -90708,13 +90708,13 @@
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.83693838119506836</real>
+												<real>0.83529411764705885</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.82530985740125407</real>
+												<real>0.82352941176470584</real>
 												<key>Red Component</key>
-												<real>0.83540194747360541</real>
+												<real>0.83529411764705885</real>
 											</dict>
 											<key>Guid</key>
 											<string>43F53EFD-C832-4FBD-914B-F019D6AE4B97</string>
@@ -90813,6 +90813,17 @@
 													<integer>11</integer>
 													<key>Text</key>
 													<string>0x1f</string>
+												</dict>
+												<key>0xd-0x100000-0x24</key>
+												<dict>
+													<key>Action</key>
+													<integer>11</integer>
+													<key>Label</key>
+													<string></string>
+													<key>Text</key>
+													<string> 0x1b 0x0d</string>
+													<key>Version</key>
+													<integer>1</integer>
 												</dict>
 												<key>0xf700-0x220000</key>
 												<dict>
@@ -91239,13 +91250,13 @@
 												<key>Alpha Component</key>
 												<real>1</real>
 												<key>Blue Component</key>
-												<real>0.27427685260772705</real>
+												<real>0.082352941176470587</real>
 												<key>Color Space</key>
 												<string>sRGB</string>
 												<key>Green Component</key>
-												<real>0.28352203965187073</real>
+												<real>0.082352941176470587</real>
 												<key>Red Component</key>
-												<real>0.30184453725814819</real>
+												<real>0.082352941176470587</real>
 											</dict>
 											<key>Tags</key>
 											<array/>
@@ -91296,20 +91307,20 @@
 										<integer>165</integer>
 										<key>Commands</key>
 										<array>
-											<string>repo</string>
-											<string>site</string>
+											<string>deletewpdbp</string>
+											<string>installwpdbp</string>
 										</array>
 										<key>Directories</key>
 										<array>
-											<string>/Users/aubreypwd</string>
-											<string>/Users/aubreypwd</string>
-											<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring</string>
-											<string>/Users/aubreypwd/Sites/Valet/WebDevStudios/monster-hiring</string>
+											<string>/Users/aubreypwd/Sites/Valet/WebDevStudios/monster-empmerch</string>
+											<string>/Users/aubreypwd/Sites/Valet/WebDevStudios/monster-empmerch</string>
+											<string>/Users/aubreypwd/Sites/Valet/WebDevStudios/monster-empmerch</string>
+											<string>/Users/aubreypwd/Sites/Valet/WebDevStudios/monster-empmerch</string>
 										</array>
 										<key>Environment</key>
 										<dict>
 											<key>PWD</key>
-											<string>/Users/aubreypwd</string>
+											<string>/Users/aubreypwd/Sites/Valet/WebDevStudios/monster-empmerch</string>
 										</dict>
 										<key>Hostname to Shell</key>
 										<dict>
@@ -91362,7 +91373,7 @@
 										<key>Rows</key>
 										<integer>10</integer>
 										<key>Session GUID</key>
-										<string>0C79C63D-77B3-4F02-B272-46CF79F10B3A</string>
+										<string>05F7B5DC-3F46-40C3-8522-90C2F4E2601C</string>
 										<key>Short Lived Single Use</key>
 										<false/>
 										<key>Should Expect Current Dir Updates</key>
@@ -91375,7 +91386,7 @@
 											<string>$$</string>
 										</dict>
 										<key>Working Directory</key>
-										<string>/Users/aubreypwd/Sites/Valet/WebDevStudios/monster-hiring</string>
+										<string>/Users/aubreypwd/Sites/Valet/WebDevStudios/monster-empmerch</string>
 										<key>Working Directory Poller Disabled</key>
 										<true/>
 									</dict>
@@ -91384,7 +91395,7 @@
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>136</real>
+										<real>134</real>
 										<key>width</key>
 										<real>1165</real>
 										<key>x</key>
@@ -91400,7 +91411,7 @@
 									<array>
 										<dict>
 											<key>Is Active</key>
-											<integer>1</integer>
+											<integer>0</integer>
 											<key>Session</key>
 											<dict>
 												<key>Bookmark</key>
@@ -91443,78 +91454,78 @@
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.49019607901573181</real>
+														<real>0.55294117647058827</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.34117648005485535</real>
+														<real>0.38039215686274508</real>
 														<key>Red Component</key>
-														<real>0.86274510622024536</real>
+														<real>0.9882352941176471</real>
 													</dict>
 													<key>Ansi 10 Color</key>
 													<dict>
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.54509806632995605</real>
+														<real>0.5607843137254902</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.81960785388946533</real>
+														<real>0.84705882352941175</real>
 														<key>Red Component</key>
-														<real>0.47058823704719543</real>
+														<real>0.4823529411764706</real>
 													</dict>
 													<key>Ansi 11 Color</key>
 													<dict>
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.39215686917304993</real>
+														<real>0.40000000000000002</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.87843137979507446</real>
+														<real>0.89803921568627454</real>
 														<key>Red Component</key>
-														<real>0.96470588445663452</real>
+														<real>0.9882352941176471</real>
 													</dict>
 													<key>Ansi 12 Color</key>
 													<dict>
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.88235294818878174</real>
+														<real>0.90196078431372551</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.81176471710205078</real>
+														<real>0.83137254901960789</real>
 														<key>Red Component</key>
-														<real>0.3490196168422699</real>
+														<real>0.35294117647058826</real>
 													</dict>
 													<key>Ansi 13 Color</key>
 													<dict>
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.90196079015731812</real>
+														<real>0.8901960784313725</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.54117649793624878</real>
+														<real>0.54117647058823526</real>
 														<key>Red Component</key>
-														<real>0.58039218187332153</real>
+														<real>0.58039215686274515</real>
 													</dict>
 													<key>Ansi 14 Color</key>
 													<dict>
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.32549020648002625</real>
+														<real>0.32549019607843138</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.57647061347961426</real>
+														<real>0.57647058823529407</real>
 														<key>Red Component</key>
-														<real>0.99215686321258545</real>
+														<real>0.99215686274509807</real>
 													</dict>
 													<key>Ansi 15 Color</key>
 													<dict>
@@ -91534,65 +91545,65 @@
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.54509806632995605</real>
+														<real>0.5607843137254902</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.81960785388946533</real>
+														<real>0.84705882352941175</real>
 														<key>Red Component</key>
-														<real>0.47058823704719543</real>
+														<real>0.4823529411764706</real>
 													</dict>
 													<key>Ansi 3 Color</key>
 													<dict>
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.39215686917304993</real>
+														<real>0.40000000000000002</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.87843137979507446</real>
+														<real>0.89803921568627454</real>
 														<key>Red Component</key>
-														<real>0.96470588445663452</real>
+														<real>0.9882352941176471</real>
 													</dict>
 													<key>Ansi 4 Color</key>
 													<dict>
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.88235294818878174</real>
+														<real>0.90196078431372551</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.81176471710205078</real>
+														<real>0.83137254901960789</real>
 														<key>Red Component</key>
-														<real>0.3490196168422699</real>
+														<real>0.35294117647058826</real>
 													</dict>
 													<key>Ansi 5 Color</key>
 													<dict>
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.90196079015731812</real>
+														<real>0.8901960784313725</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.54117649793624878</real>
+														<real>0.54117647058823526</real>
 														<key>Red Component</key>
-														<real>0.58039218187332153</real>
+														<real>0.58039215686274515</real>
 													</dict>
 													<key>Ansi 6 Color</key>
 													<dict>
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.32549020648002625</real>
+														<real>0.32549019607843138</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.57647061347961426</real>
+														<real>0.57647058823529407</real>
 														<key>Red Component</key>
-														<real>0.99215686321258545</real>
+														<real>0.99215686274509807</real>
 													</dict>
 													<key>Ansi 7 Color</key>
 													<dict>
@@ -91625,13 +91636,13 @@
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.49019607901573181</real>
+														<real>0.55294117647058827</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.34117648005485535</real>
+														<real>0.38039215686274508</real>
 														<key>Red Component</key>
-														<real>0.86274510622024536</real>
+														<real>0.9882352941176471</real>
 													</dict>
 													<key>Automatically Log</key>
 													<false/>
@@ -91642,13 +91653,13 @@
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.10958623886108398</real>
+														<real>0.071419239044189453</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.10958623886108398</real>
+														<real>0.071419239044189453</real>
 														<key>Red Component</key>
-														<real>0.10958623886108398</real>
+														<real>0.071419239044189453</real>
 													</dict>
 													<key>Background Image Is Tiled</key>
 													<false/>
@@ -91768,13 +91779,13 @@
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.83693838119506836</real>
+														<real>0.83529411764705885</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.82530985740125407</real>
+														<real>0.82352941176470584</real>
 														<key>Red Component</key>
-														<real>0.83540194747360541</real>
+														<real>0.83529411764705885</real>
 													</dict>
 													<key>Guid</key>
 													<string>43F53EFD-C832-4FBD-914B-F019D6AE4B97</string>
@@ -91873,6 +91884,17 @@
 															<integer>11</integer>
 															<key>Text</key>
 															<string>0x1f</string>
+														</dict>
+														<key>0xd-0x100000-0x24</key>
+														<dict>
+															<key>Action</key>
+															<integer>11</integer>
+															<key>Label</key>
+															<string></string>
+															<key>Text</key>
+															<string> 0x1b 0x0d</string>
+															<key>Version</key>
+															<integer>1</integer>
 														</dict>
 														<key>0xf700-0x220000</key>
 														<dict>
@@ -92299,13 +92321,13 @@
 														<key>Alpha Component</key>
 														<real>1</real>
 														<key>Blue Component</key>
-														<real>0.27427685260772705</real>
+														<real>0.082352941176470587</real>
 														<key>Color Space</key>
 														<string>sRGB</string>
 														<key>Green Component</key>
-														<real>0.28352203965187073</real>
+														<real>0.082352941176470587</real>
 														<key>Red Component</key>
-														<real>0.30184453725814819</real>
+														<real>0.082352941176470587</real>
 													</dict>
 													<key>Tags</key>
 													<array/>
@@ -92355,16 +92377,204 @@
 												<key>Columns</key>
 												<integer>81</integer>
 												<key>Commands</key>
-												<array/>
+												<array>
+													<string>fd</string>
+													<string>git fb</string>
+													<string>git pull origin main</string>
+													<string>cid</string>
+													<string>git s</string>
+													<string>delete db.php</string>
+													<string>git s</string>
+													<string>git diff</string>
+													<string>git camp "Disable the GA snippet part."</string>
+													<string>git status</string>
+													<string>git diff</string>
+													<string>git camp "Add better instructions."</string>
+													<string>git s</string>
+													<string>git diff</string>
+													<string>git p</string>
+													<string>git cb</string>
+													<string>git co -b 'feature/NHS-706-add-optimizely-and-google-analytics-to-certain-page-with-GA'</string>
+													<string>git p</string>
+													<string>git fb</string>
+													<string>git fb</string>
+													<string>gh pr view --web</string>
+													<string>gh pr create --draft</string>
+													<string>brew update &amp;&amp; brew upgrade gh</string>
+													<string>git fb</string>
+													<string>git s</string>
+													<string>git diff</string>
+													<string>git g</string>
+													<string>git s</string>
+													<string>git p</string>
+													<string>git fb</string>
+													<string>git fb</string>
+													<string>git g</string>
+													<string>git status</string>
+													<string>git add .</string>
+													<string>git camp "Add coding standards locally to the plugin."</string>
+													<string>git p</string>
+													<string>git camp "No need for this either."</string>
+													<string>git camp "Add some notes to readme."</string>
+													<string>npm i</string>
+													<string>npm i</string>
+													<string>git s</string>
+													<string>git camp "Reduce the # of disables here."</string>
+													<string>git camp "Clarify why I left this."</string>
+													<string>git camp "this name is more clear"</string>
+													<string>git camp "No, this is clearer."</string>
+													<string>git camp "No, this is clearerer."</string>
+													<string>git camp "better function name"</string>
+													<string>git cb</string>
+													<string>git co develo</string>
+													<string>git s</string>
+													<string>git co develop</string>
+													<string>git pull origin main</string>
+													<string>git merge feature/NHS-706-add-optimizely-and-google-analytics-to-certain-pages</string>
+													<string>git mergetool</string>
+													<string>git s</string>
+													<string>git add .</string>
+													<string>git commit</string>
+													<string>git p</string>
+													<string>git s</string>
+													<string>git add .</string>
+													<string>git s</string>
+													<string>git diff</string>
+													<string>git camp "lint"</string>
+													<string>git s</string>
+													<string>git rhhc</string>
+													<string>git s</string>
+													<string>git p</string>
+													<string>git rhhc</string>
+													<string>git status</string>
+													<string>git reset --hard head</string>
+													<string>rm /Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/.git/index.lock</string>
+													<string>git rhhc</string>
+													<string>git p</string>
+													<string>git co feature/NHS-706-add-optimizely-and-google-analytics-to-certain-pages</string>
+													<string>git camp "Remove GA snippet (removed) CSS."</string>
+													<string>git camp "Fix typo."</string>
+													<string>git camp "Don't target tag."</string>
+													<string>git cb</string>
+													<string>git co staging</string>
+													<string>git pull</string>
+													<string>git pull origin main</string>
+													<string>git merge feature/NHS-706-add-optimizely-and-google-analytics-to-certain-pages</string>
+													<string>git</string>
+													<string>git p</string>
+													<string>npm i</string>
+													<string>git fb</string>
+													<string>git pull</string>
+													<string>git pull origin main</string>
+													<string>ls</string>
+													<string>cid</string>
+												</array>
 												<key>Directories</key>
 												<array>
-													<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring</string>
-													<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
 												</array>
 												<key>Environment</key>
 												<dict>
 													<key>PWD</key>
-													<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring</string>
+													<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
 												</dict>
 												<key>Hostname to Shell</key>
 												<dict>
@@ -92373,6 +92583,570 @@
 												</dict>
 												<key>Hosts</key>
 												<array>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
+													<dict>
+														<key>Host name</key>
+														<string>Aubreys-MacBook-Air.local</string>
+														<key>User name</key>
+														<string>aubreypwd</string>
+													</dict>
 													<dict>
 														<key>Host name</key>
 														<string>Aubreys-MacBook-Air.local</string>
@@ -92403,9 +93177,9 @@
 													<string>Shell Launcher</string>
 												</dict>
 												<key>Rows</key>
-												<integer>52</integer>
+												<integer>51</integer>
 												<key>Session GUID</key>
-												<string>E158B54C-AA5B-484D-A035-4BB0DE3743C7</string>
+												<string>5C9329AF-E94D-4F68-B7EB-06BA58F35961</string>
 												<key>Short Lived Single Use</key>
 												<false/>
 												<key>Should Expect Current Dir Updates</key>
@@ -92418,7 +93192,7 @@
 													<string>$$</string>
 												</dict>
 												<key>Working Directory</key>
-												<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring</string>
+												<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
 												<key>Working Directory Poller Disabled</key>
 												<true/>
 											</dict>
@@ -92427,7 +93201,7 @@
 											<key>frame</key>
 											<dict>
 												<key>height</key>
-												<real>686</real>
+												<real>674</real>
 												<key>width</key>
 												<real>582</real>
 												<key>x</key>
@@ -92438,7 +93212,7 @@
 										</dict>
 										<dict>
 											<key>Splitter ID</key>
-											<string>8C8F8A56-0B88-4CE2-8E69-1483BD284158</string>
+											<string>8002CA04-7469-4ABA-9188-13E9D44962DA</string>
 											<key>Subviews</key>
 											<array>
 												<dict>
@@ -92486,78 +93260,78 @@
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.49019607901573181</real>
+																<real>0.55294117647058827</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.34117648005485535</real>
+																<real>0.38039215686274508</real>
 																<key>Red Component</key>
-																<real>0.86274510622024536</real>
+																<real>0.9882352941176471</real>
 															</dict>
 															<key>Ansi 10 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.54509806632995605</real>
+																<real>0.5607843137254902</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.81960785388946533</real>
+																<real>0.84705882352941175</real>
 																<key>Red Component</key>
-																<real>0.47058823704719543</real>
+																<real>0.4823529411764706</real>
 															</dict>
 															<key>Ansi 11 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.39215686917304993</real>
+																<real>0.40000000000000002</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.87843137979507446</real>
+																<real>0.89803921568627454</real>
 																<key>Red Component</key>
-																<real>0.96470588445663452</real>
+																<real>0.9882352941176471</real>
 															</dict>
 															<key>Ansi 12 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.88235294818878174</real>
+																<real>0.90196078431372551</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.81176471710205078</real>
+																<real>0.83137254901960789</real>
 																<key>Red Component</key>
-																<real>0.3490196168422699</real>
+																<real>0.35294117647058826</real>
 															</dict>
 															<key>Ansi 13 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.90196079015731812</real>
+																<real>0.8901960784313725</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.54117649793624878</real>
+																<real>0.54117647058823526</real>
 																<key>Red Component</key>
-																<real>0.58039218187332153</real>
+																<real>0.58039215686274515</real>
 															</dict>
 															<key>Ansi 14 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.32549020648002625</real>
+																<real>0.32549019607843138</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.57647061347961426</real>
+																<real>0.57647058823529407</real>
 																<key>Red Component</key>
-																<real>0.99215686321258545</real>
+																<real>0.99215686274509807</real>
 															</dict>
 															<key>Ansi 15 Color</key>
 															<dict>
@@ -92577,65 +93351,65 @@
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.54509806632995605</real>
+																<real>0.5607843137254902</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.81960785388946533</real>
+																<real>0.84705882352941175</real>
 																<key>Red Component</key>
-																<real>0.47058823704719543</real>
+																<real>0.4823529411764706</real>
 															</dict>
 															<key>Ansi 3 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.39215686917304993</real>
+																<real>0.40000000000000002</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.87843137979507446</real>
+																<real>0.89803921568627454</real>
 																<key>Red Component</key>
-																<real>0.96470588445663452</real>
+																<real>0.9882352941176471</real>
 															</dict>
 															<key>Ansi 4 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.88235294818878174</real>
+																<real>0.90196078431372551</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.81176471710205078</real>
+																<real>0.83137254901960789</real>
 																<key>Red Component</key>
-																<real>0.3490196168422699</real>
+																<real>0.35294117647058826</real>
 															</dict>
 															<key>Ansi 5 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.90196079015731812</real>
+																<real>0.8901960784313725</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.54117649793624878</real>
+																<real>0.54117647058823526</real>
 																<key>Red Component</key>
-																<real>0.58039218187332153</real>
+																<real>0.58039215686274515</real>
 															</dict>
 															<key>Ansi 6 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.32549020648002625</real>
+																<real>0.32549019607843138</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.57647061347961426</real>
+																<real>0.57647058823529407</real>
 																<key>Red Component</key>
-																<real>0.99215686321258545</real>
+																<real>0.99215686274509807</real>
 															</dict>
 															<key>Ansi 7 Color</key>
 															<dict>
@@ -92668,13 +93442,13 @@
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.49019607901573181</real>
+																<real>0.55294117647058827</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.34117648005485535</real>
+																<real>0.38039215686274508</real>
 																<key>Red Component</key>
-																<real>0.86274510622024536</real>
+																<real>0.9882352941176471</real>
 															</dict>
 															<key>Automatically Log</key>
 															<false/>
@@ -92685,13 +93459,13 @@
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.10958623886108398</real>
+																<real>0.071419239044189453</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.10958623886108398</real>
+																<real>0.071419239044189453</real>
 																<key>Red Component</key>
-																<real>0.10958623886108398</real>
+																<real>0.071419239044189453</real>
 															</dict>
 															<key>Background Image Is Tiled</key>
 															<false/>
@@ -92811,13 +93585,13 @@
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.83693838119506836</real>
+																<real>0.83529411764705885</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.82530985740125407</real>
+																<real>0.82352941176470584</real>
 																<key>Red Component</key>
-																<real>0.83540194747360541</real>
+																<real>0.83529411764705885</real>
 															</dict>
 															<key>Guid</key>
 															<string>43F53EFD-C832-4FBD-914B-F019D6AE4B97</string>
@@ -92916,6 +93690,17 @@
 																	<integer>11</integer>
 																	<key>Text</key>
 																	<string>0x1f</string>
+																</dict>
+																<key>0xd-0x100000-0x24</key>
+																<dict>
+																	<key>Action</key>
+																	<integer>11</integer>
+																	<key>Label</key>
+																	<string></string>
+																	<key>Text</key>
+																	<string> 0x1b 0x0d</string>
+																	<key>Version</key>
+																	<integer>1</integer>
 																</dict>
 																<key>0xf700-0x220000</key>
 																<dict>
@@ -93342,13 +94127,13 @@
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.27427685260772705</real>
+																<real>0.082352941176470587</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.28352203965187073</real>
+																<real>0.082352941176470587</real>
 																<key>Red Component</key>
-																<real>0.30184453725814819</real>
+																<real>0.082352941176470587</real>
 															</dict>
 															<key>Tags</key>
 															<array/>
@@ -93399,18 +94184,29 @@
 														<integer>81</integer>
 														<key>Commands</key>
 														<array>
+															<string>cd "/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise"</string>
 															<string>cd themes/monster-hiring</string>
+															<string>npm ci &amp;&amp; npm run build</string>
+															<string>npm i</string>
+															<string>npm ci &amp;&amp; npmrb</string>
 														</array>
 														<key>Directories</key>
 														<array>
-															<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring</string>
-															<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring</string>
 															<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring/themes/monster-hiring</string>
+															<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring/themes/monster-hiring</string>
+															<string>/</string>
+															<string>/</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/themes/monster-hiring</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/themes/monster-hiring</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/themes/monster-hiring</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/themes/monster-hiring</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/themes/monster-hiring</string>
 														</array>
 														<key>Environment</key>
 														<dict>
 															<key>PWD</key>
-															<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring</string>
+															<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring/themes/monster-hiring</string>
 														</dict>
 														<key>Hostname to Shell</key>
 														<dict>
@@ -93419,6 +94215,42 @@
 														</dict>
 														<key>Hosts</key>
 														<array>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
 															<dict>
 																<key>Host name</key>
 																<string>Aubreys-MacBook-Air.local</string>
@@ -93455,9 +94287,9 @@
 															<string>Shell Launcher</string>
 														</dict>
 														<key>Rows</key>
-														<integer>40</integer>
+														<integer>25</integer>
 														<key>Session GUID</key>
-														<string>B02F7EB9-FCE7-4B13-82CB-980F4AA1612D</string>
+														<string>AADAD96F-2AA2-4051-8C1A-543DB39B91E0</string>
 														<key>Short Lived Single Use</key>
 														<false/>
 														<key>Should Expect Current Dir Updates</key>
@@ -93470,7 +94302,7 @@
 															<string>$$</string>
 														</dict>
 														<key>Working Directory</key>
-														<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring/themes/monster-hiring</string>
+														<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/themes/monster-hiring</string>
 														<key>Working Directory Poller Disabled</key>
 														<true/>
 													</dict>
@@ -93479,7 +94311,7 @@
 													<key>frame</key>
 													<dict>
 														<key>height</key>
-														<real>524</real>
+														<real>336.5</real>
 														<key>width</key>
 														<real>582</real>
 														<key>x</key>
@@ -93490,7 +94322,7 @@
 												</dict>
 												<dict>
 													<key>Is Active</key>
-													<integer>0</integer>
+													<integer>1</integer>
 													<key>Session</key>
 													<dict>
 														<key>Bookmark</key>
@@ -93533,78 +94365,78 @@
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.49019607901573181</real>
+																<real>0.55294117647058827</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.34117648005485535</real>
+																<real>0.38039215686274508</real>
 																<key>Red Component</key>
-																<real>0.86274510622024536</real>
+																<real>0.9882352941176471</real>
 															</dict>
 															<key>Ansi 10 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.54509806632995605</real>
+																<real>0.5607843137254902</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.81960785388946533</real>
+																<real>0.84705882352941175</real>
 																<key>Red Component</key>
-																<real>0.47058823704719543</real>
+																<real>0.4823529411764706</real>
 															</dict>
 															<key>Ansi 11 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.39215686917304993</real>
+																<real>0.40000000000000002</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.87843137979507446</real>
+																<real>0.89803921568627454</real>
 																<key>Red Component</key>
-																<real>0.96470588445663452</real>
+																<real>0.9882352941176471</real>
 															</dict>
 															<key>Ansi 12 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.88235294818878174</real>
+																<real>0.90196078431372551</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.81176471710205078</real>
+																<real>0.83137254901960789</real>
 																<key>Red Component</key>
-																<real>0.3490196168422699</real>
+																<real>0.35294117647058826</real>
 															</dict>
 															<key>Ansi 13 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.90196079015731812</real>
+																<real>0.8901960784313725</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.54117649793624878</real>
+																<real>0.54117647058823526</real>
 																<key>Red Component</key>
-																<real>0.58039218187332153</real>
+																<real>0.58039215686274515</real>
 															</dict>
 															<key>Ansi 14 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.32549020648002625</real>
+																<real>0.32549019607843138</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.57647061347961426</real>
+																<real>0.57647058823529407</real>
 																<key>Red Component</key>
-																<real>0.99215686321258545</real>
+																<real>0.99215686274509807</real>
 															</dict>
 															<key>Ansi 15 Color</key>
 															<dict>
@@ -93624,65 +94456,65 @@
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.54509806632995605</real>
+																<real>0.5607843137254902</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.81960785388946533</real>
+																<real>0.84705882352941175</real>
 																<key>Red Component</key>
-																<real>0.47058823704719543</real>
+																<real>0.4823529411764706</real>
 															</dict>
 															<key>Ansi 3 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.39215686917304993</real>
+																<real>0.40000000000000002</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.87843137979507446</real>
+																<real>0.89803921568627454</real>
 																<key>Red Component</key>
-																<real>0.96470588445663452</real>
+																<real>0.9882352941176471</real>
 															</dict>
 															<key>Ansi 4 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.88235294818878174</real>
+																<real>0.90196078431372551</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.81176471710205078</real>
+																<real>0.83137254901960789</real>
 																<key>Red Component</key>
-																<real>0.3490196168422699</real>
+																<real>0.35294117647058826</real>
 															</dict>
 															<key>Ansi 5 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.90196079015731812</real>
+																<real>0.8901960784313725</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.54117649793624878</real>
+																<real>0.54117647058823526</real>
 																<key>Red Component</key>
-																<real>0.58039218187332153</real>
+																<real>0.58039215686274515</real>
 															</dict>
 															<key>Ansi 6 Color</key>
 															<dict>
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.32549020648002625</real>
+																<real>0.32549019607843138</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.57647061347961426</real>
+																<real>0.57647058823529407</real>
 																<key>Red Component</key>
-																<real>0.99215686321258545</real>
+																<real>0.99215686274509807</real>
 															</dict>
 															<key>Ansi 7 Color</key>
 															<dict>
@@ -93715,13 +94547,13 @@
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.49019607901573181</real>
+																<real>0.55294117647058827</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.34117648005485535</real>
+																<real>0.38039215686274508</real>
 																<key>Red Component</key>
-																<real>0.86274510622024536</real>
+																<real>0.9882352941176471</real>
 															</dict>
 															<key>Automatically Log</key>
 															<false/>
@@ -93732,13 +94564,13 @@
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.10958623886108398</real>
+																<real>0.071419239044189453</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.10958623886108398</real>
+																<real>0.071419239044189453</real>
 																<key>Red Component</key>
-																<real>0.10958623886108398</real>
+																<real>0.071419239044189453</real>
 															</dict>
 															<key>Background Image Is Tiled</key>
 															<false/>
@@ -93858,13 +94690,13 @@
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.83693838119506836</real>
+																<real>0.83529411764705885</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.82530985740125407</real>
+																<real>0.82352941176470584</real>
 																<key>Red Component</key>
-																<real>0.83540194747360541</real>
+																<real>0.83529411764705885</real>
 															</dict>
 															<key>Guid</key>
 															<string>43F53EFD-C832-4FBD-914B-F019D6AE4B97</string>
@@ -93963,6 +94795,17 @@
 																	<integer>11</integer>
 																	<key>Text</key>
 																	<string>0x1f</string>
+																</dict>
+																<key>0xd-0x100000-0x24</key>
+																<dict>
+																	<key>Action</key>
+																	<integer>11</integer>
+																	<key>Label</key>
+																	<string></string>
+																	<key>Text</key>
+																	<string> 0x1b 0x0d</string>
+																	<key>Version</key>
+																	<integer>1</integer>
 																</dict>
 																<key>0xf700-0x220000</key>
 																<dict>
@@ -94389,13 +95232,13 @@
 																<key>Alpha Component</key>
 																<real>1</real>
 																<key>Blue Component</key>
-																<real>0.27427685260772705</real>
+																<real>0.082352941176470587</real>
 																<key>Color Space</key>
 																<string>sRGB</string>
 																<key>Green Component</key>
-																<real>0.28352203965187073</real>
+																<real>0.082352941176470587</real>
 																<key>Red Component</key>
-																<real>0.30184453725814819</real>
+																<real>0.082352941176470587</real>
 															</dict>
 															<key>Tags</key>
 															<array/>
@@ -94445,16 +95288,39 @@
 														<key>Columns</key>
 														<integer>81</integer>
 														<key>Commands</key>
-														<array/>
+														<array>
+															<string>cd ../../</string>
+															<string>ls</string>
+															<string>cd plugins</string>
+															<string>fd</string>
+															<string>cd ..</string>
+															<string>fd</string>
+															<string>git s</string>
+															<string>git p</string>
+															<string>ls</string>
+															<string>cd ..</string>
+														</array>
 														<key>Directories</key>
 														<array>
-															<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring/themes/monster-hiring</string>
-															<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring/themes/monster-hiring</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/themes/monster-hiring</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/themes/monster-hiring</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/plugins</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/plugins/kraken-image-optimizer</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/plugins</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/plugins/wds-monster-optimizely</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/plugins/wds-monster-optimizely</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/plugins/wds-monster-optimizely</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/plugins/wds-monster-optimizely</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/plugins/wds-monster-optimizely</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/plugins/wds-monster-optimizely</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/plugins</string>
 														</array>
 														<key>Environment</key>
 														<dict>
 															<key>PWD</key>
-															<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring/themes/monster-hiring</string>
+															<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/themes/monster-hiring</string>
 														</dict>
 														<key>Hostname to Shell</key>
 														<dict>
@@ -94463,6 +95329,72 @@
 														</dict>
 														<key>Hosts</key>
 														<array>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
+															<dict>
+																<key>Host name</key>
+																<string>Aubreys-MacBook-Air.local</string>
+																<key>User name</key>
+																<string>aubreypwd</string>
+															</dict>
 															<dict>
 																<key>Host name</key>
 																<string>Aubreys-MacBook-Air.local</string>
@@ -94493,9 +95425,9 @@
 															<string>Shell Launcher</string>
 														</dict>
 														<key>Rows</key>
-														<integer>12</integer>
+														<integer>25</integer>
 														<key>Session GUID</key>
-														<string>932F35F3-6412-42A9-BD6E-D87A6E33C815</string>
+														<string>0E899F04-74BB-459E-8178-61A25E3264CC</string>
 														<key>Short Lived Single Use</key>
 														<false/>
 														<key>Should Expect Current Dir Updates</key>
@@ -94508,7 +95440,7 @@
 															<string>$$</string>
 														</dict>
 														<key>Working Directory</key>
-														<string>/Users/aubreypwd/Repos/github.com/WebDevStudios/project-monster-hiring/themes/monster-hiring</string>
+														<string>/Users/aubreypwd/Repos/github.com/Monster-cms/Hiring-WordPress-Merchandise/plugins</string>
 														<key>Working Directory Poller Disabled</key>
 														<true/>
 													</dict>
@@ -94517,13 +95449,13 @@
 													<key>frame</key>
 													<dict>
 														<key>height</key>
-														<real>161</real>
+														<real>336.5</real>
 														<key>width</key>
 														<real>582</real>
 														<key>x</key>
 														<real>0.0</real>
 														<key>y</key>
-														<real>525</real>
+														<real>337.5</real>
 													</dict>
 												</dict>
 											</array>
@@ -94532,7 +95464,7 @@
 											<key>frame</key>
 											<dict>
 												<key>height</key>
-												<real>686</real>
+												<real>674</real>
 												<key>width</key>
 												<real>582</real>
 												<key>x</key>
@@ -94549,13 +95481,13 @@
 									<key>frame</key>
 									<dict>
 										<key>height</key>
-										<real>686</real>
+										<real>674</real>
 										<key>width</key>
 										<real>1165</real>
 										<key>x</key>
 										<real>0.0</real>
 										<key>y</key>
-										<real>137</real>
+										<real>135</real>
 									</dict>
 									<key>isVertical</key>
 									<true/>
@@ -94566,7 +95498,7 @@
 							<key>frame</key>
 							<dict>
 								<key>height</key>
-								<real>823</real>
+								<real>809</real>
 								<key>width</key>
 								<real>1165</real>
 								<key>x</key>
@@ -94606,9 +95538,9 @@
 				<key>Window Type</key>
 				<integer>13</integer>
 				<key>X Origin</key>
-				<real>289</real>
+				<real>343</real>
 				<key>Y Origin</key>
-				<real>129</real>
+				<real>35</real>
 			</dict>
 		</array>
 		<key>monster-resources</key>
