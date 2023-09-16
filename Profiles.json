@@ -1660,11 +1660,11 @@
   "Disable Printing" : false,
   "Minimum Contrast" : 0,
   "Ansi 12 Color" : {
-    "Red Component" : 0.60392156862745094,
+    "Red Component" : 0.73725490196078436,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.86274509803921573,
+    "Blue Component" : 0.90196078431372551,
     "Alpha Component" : 1,
-    "Green Component" : 0.73333333333333328
+    "Green Component" : 0.84705882352941175
   },
   "Scrollback With Status Bar" : false,
   "HotKey Window Floats" : true,
